@@ -1,0 +1,9 @@
+# Ignore all logfiles and tempfiles.
+.DS_Store
+*.log
+build
+
+# Ignore terraform state files
+*.tfstate
+*.tfstate.*
+.terraform
