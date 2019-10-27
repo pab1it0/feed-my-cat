@@ -1,10 +1,10 @@
 # feed-my-cat
 
- State of the art system to feed your cat using various AWS services.
+Feed your cat using various AWS services.
 
 ## Installation
 
-1. Configure [AWS Credentials](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/).
+1. Configure [AWS Credentials](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html).
 2. Install [Terraform](https://learn.hashicorp.com/terraform/getting-started/install.html)
 
 
@@ -18,7 +18,7 @@ You'll be prompted for your email, to which alerts will be sent in case  your ca
 
 After installation, make sure to confirm subscription by clicking on the URL you'll get to the email specified in the installation process.
 
-Feeding your cat is simple - Just upload an image with either Fish, Milk or Bread to the S3 bucket specified in the installation process as-well.
+Feeding your cat is simple - Just upload an image with either Fish, Milk or Bread to the S3 bucket specified at the end of the installation.
 
 ## Contributors
 
